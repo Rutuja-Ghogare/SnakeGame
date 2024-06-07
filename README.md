@@ -1,4 +1,4 @@
-Created a snake game using python
+Created a snake game using python.
 
 Follow these steps to run this game:
 - pip3 install pygame
